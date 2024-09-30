@@ -1,0 +1,22 @@
+.book-list-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 50%;
+}
+
+.reading-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 50%;
+}
+
+.reading-list-container {
+    border: 1px solid white;
+    border-radius: 12px;
+    margin-left: 20px;
+}

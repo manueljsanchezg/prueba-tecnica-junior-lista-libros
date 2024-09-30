@@ -1,0 +1,16 @@
+.book-card {
+    border: 1px solid white;
+    border-radius: 12px;
+    margin: 10px;
+    height: auto;
+    width: 200px;
+}
+
+img {
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+button {
+    margin: 10px;
+}
